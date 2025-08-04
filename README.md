@@ -4,7 +4,6 @@ Write a Python program that asks the user to enter a mathematical expression in 
 e.g :  3 + 5 * ( 2 - 8 )   and then:
 
  
-
 1. Convert it into Postfix notation (Reverse Polish Notation) (25 points)
 
 def infix_to_postfix(infix : string) : returns postfix:string
