@@ -36,4 +36,5 @@ Requirements
 - Use only single digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
 
 Simple output :
+
 <img width="443" height="136" alt="image" src="https://github.com/user-attachments/assets/209ed2b5-09cb-4a0e-83ec-13d748929d59" />
